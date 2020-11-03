@@ -4,5 +4,7 @@
 
 ### 👾 Roteiro das Aulas WebHacking: 
 
-- [Aula 01: Bases da Web;](https://github.com/nallinguilherme/MaratonaWebHacking/blob/main/WebHacking%20-%20Aula%20%2301.md)
-<p>*Demais aulas ainda não estão disponíveis*</p>
+- [Aula 01: Bases da Web](https://github.com/nallinguilherme/MaratonaWebHacking/blob/main/WebHacking%20-%20Aula%20%2301.md)
+<br>
+
+*Demais aulas ainda não estão disponíveis*
