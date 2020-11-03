@@ -7,4 +7,4 @@
 - [Aula 01: Bases da Web](https://github.com/nallinguilherme/MaratonaWebHacking/blob/main/WebHacking%20-%20Aula%20%2301.md)
 <br>
 
-*Demais aulas ainda não estão disponíveis*
+*Demais aulas ainda não estão disponíveis...*
