@@ -5,6 +5,8 @@
 ### 👾 Roteiro das Aulas WebHacking: 
 
 - [Aula 01: Bases da Web](https://github.com/nallinguilherme/MaratonaWebHacking/blob/main/WebHacking%20-%20Aula%20%2301.md)
+- [Aula 02: Serialização e Desserialização](https://github.com/nallinguilherme/MaratonaWebHacking/blob/main/Web%20Hacking%20_%20Aula_%2002.md)
 <br>
+
 
 *Demais aulas ainda não estão disponíveis...*
